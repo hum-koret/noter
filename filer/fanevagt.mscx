@@ -476,7 +476,7 @@
         <height>10</height>
         <Text>
           <style>Title</style>
-          <text>Fanevagt</text>
+          <text>Fanevagter</text>
           </Text>
         <Text>
           <style>Composer</style>
@@ -2889,8 +2889,8 @@
           <dots>1</dots>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>50</pitch>
-            <tpc>16</tpc>
+            <pitch>51</pitch>
+            <tpc>11</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -2955,8 +2955,8 @@
           <dots>1</dots>
           <durationType>half</durationType>
           <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
+            <pitch>53</pitch>
+            <tpc>13</tpc>
             </Note>
           </Chord>
         <Rest>
