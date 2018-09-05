@@ -480,7 +480,7 @@
           </Text>
         <Text>
           <style>Composer</style>
-          <text>F. Bauditz</text>
+          <text>Frederik Bauditz</text>
           </Text>
         <Text>
           <style>Lyricist</style>
@@ -611,8 +611,8 @@
             <text>San</text>
             </Lyrics>
           <Note>
-            <pitch>50</pitch>
-            <tpc>16</tpc>
+            <pitch>60</pitch>
+            <tpc>14</tpc>
             </Note>
           </Chord>
         <Chord>
