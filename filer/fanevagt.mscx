@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <museScore version="2.06">
-  <programVersion>2.3.2</programVersion>
-  <programRevision>4592407</programRevision>
+  <programVersion>2.2.1</programVersion>
+  <programRevision>51b8386</programRevision>
   <Score>
     <LayerTag id="0" tag="default"></LayerTag>
     <currentLayer>0</currentLayer>
@@ -2233,18 +2233,18 @@
         <Dynamic>
           <subtype>f</subtype>
           <velocity>96</velocity>
-          <pos x="-1.12086" y="-0.801353"/>
+          <pos x="-0.791719" y="-0.801353"/>
           </Dynamic>
         <Chord>
           <dots>1</dots>
           <durationType>quarter</durationType>
           <Articulation>
             <subtype>sforzato</subtype>
-            <pos x="0.788281" y="-0.396094"/>
+            <pos x="0.658281" y="3.59609"/>
             </Articulation>
           <Note>
-            <pitch>58</pitch>
-            <tpc>12</tpc>
+            <pitch>51</pitch>
+            <tpc>11</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -2820,8 +2820,8 @@
         <Chord>
           <durationType>quarter</durationType>
           <Note>
-            <pitch>53</pitch>
-            <tpc>13</tpc>
+            <pitch>58</pitch>
+            <tpc>12</tpc>
             </Note>
           </Chord>
         <Chord>
@@ -3354,8 +3354,8 @@
           <dots>1</dots>
           <durationType>eighth</durationType>
           <Note>
-            <pitch>50</pitch>
-            <tpc>16</tpc>
+            <pitch>55</pitch>
+            <tpc>15</tpc>
             </Note>
           </Chord>
         <Chord>
