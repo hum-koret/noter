@@ -11,7 +11,7 @@
     <Style>
       <minNoteDistance>0.5</minNoteDistance>
       <TextStyle>
-        <halign>left</halign>
+        <halign>center</halign>
         <valign>baseline</valign>
         <xoffset>0</xoffset>
         <yoffset>6</yoffset>
@@ -484,7 +484,7 @@
           </Text>
         <Text>
           <style>Lyricist</style>
-          <text>Ole Olsen</text>
+          <text>Ole Olsen Hansen</text>
           </Text>
         </VBox>
       <Measure number="1">
