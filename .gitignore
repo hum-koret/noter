@@ -1,4 +1,5 @@
 .idea
+#MuseScore files
 *.mscx,
 # Logs
 logs
